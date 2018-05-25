@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Brescia\IdeaProjects\labingsw012017201809\src
+Main-Class: ch.supsi.gui.PtmMain
+
